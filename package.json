@@ -1,0 +1,16 @@
+{
+  "name": "100_days_of_coding_challenge",
+  "version": "1.0.0",
+  "main": ".js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": ".js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
